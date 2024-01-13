@@ -12,6 +12,6 @@ py -3.10 -m pipenv install
 \
 
 then run the file\
-py -3.10 -m pipenv run python test.py
+py -3.10 -m pipenv run python lr.py
 
 
