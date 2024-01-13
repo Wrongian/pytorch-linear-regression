@@ -5,12 +5,13 @@ Code Adapted from: https://towardsdatascience.com/linear-regression-with-pytorch
 
 Uses Python Version 3.10 and pipenv
 
-run:
+run: \
 pipenv install
 or
 py -3.10 -m pipenv install
+\
 
-then run the file
+then run the file\
 py -3.10 -m pipenv run python test.py
 
 
